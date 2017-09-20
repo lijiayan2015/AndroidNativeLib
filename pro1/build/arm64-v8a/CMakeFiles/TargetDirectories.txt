@@ -1,0 +1,3 @@
+C:/Users/lijiayan/Desktop/demo02/pro1/build/arm64-v8a/CMakeFiles/Pro1.dir
+C:/Users/lijiayan/Desktop/demo02/pro1/build/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/lijiayan/Desktop/demo02/pro1/build/arm64-v8a/CMakeFiles/rebuild_cache.dir

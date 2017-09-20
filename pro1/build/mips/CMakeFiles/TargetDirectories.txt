@@ -1,0 +1,3 @@
+C:/Users/lijiayan/Desktop/demo02/pro1/build/mips/CMakeFiles/Pro1.dir
+C:/Users/lijiayan/Desktop/demo02/pro1/build/mips/CMakeFiles/edit_cache.dir
+C:/Users/lijiayan/Desktop/demo02/pro1/build/mips/CMakeFiles/rebuild_cache.dir

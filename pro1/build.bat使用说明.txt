@@ -1,0 +1,5 @@
+1.该方式生成静态库/动态库只适用于windows下
+2.将set toolchain=E:/Android/ndk/android-ndk-r13b-windows-x86_64/android-ndk-r13b/build/cmake/android.toolchain.cmake的路径替换成自己NDK中的路径
+3.将set android_ndk=E:/Android/ndk/android-ndk-r13b-windows-x86_64/android-ndk-r13b替换成自己的ndk路径
+4.需要配置环境变量,配置方式参考:http://blog.csdn.net/LLJJYY001/article/details/77866049
+5.在windows下直接可以单击运行,但是如果使用我的该文件,目录结构需要跟我的一致.

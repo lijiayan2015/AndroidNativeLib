@@ -1,0 +1,3 @@
+C:/Users/lijiayan/Desktop/demo02/pro2/build/armeabi/CMakeFiles/Pro2.dir
+C:/Users/lijiayan/Desktop/demo02/pro2/build/armeabi/CMakeFiles/edit_cache.dir
+C:/Users/lijiayan/Desktop/demo02/pro2/build/armeabi/CMakeFiles/rebuild_cache.dir
